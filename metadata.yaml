@@ -1,0 +1,40 @@
+_repo: Dooryard-Stories_42035
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gordon, F. C.
+    alias: Gordon, Frederick C. (Frederick Charles)
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '37343'
+    url: http://www.gutenberg.org/2009/agents/37343
+covers:
+- cover_type: archival
+  image_path: 42035-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pierson, Clara Dillingham
+    gutenberg_agent_id: '8634'
+    url: http://www.gutenberg.org/2009/agents/8634
+description: ''
+gutenberg_issued: '2013-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42035'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+tableOfContents: Silvertip -- The fight for the bird-house -- The fir-tree neighbors
+  -- The industrious flickers -- Plucky Mrs. Polistes -- Silvertip stops a quarrel
+  -- A young swift tumbles -- The very rude young robins -- The systematic yellow-billed
+  cuckoo -- The helpful tumble-bugs -- Silvertip learns a lesson -- The robins' double
+  brood -- The sparrows inside the eaves -- A rainy day on the lawn -- The persistent
+  phoebe -- The sad story of the hog caterpillar -- The cat and the catbird -- The
+  friendly blackbirds.
+title: Dooryard Stories
+url: http://www.gutenberg.org/ebooks/42035
